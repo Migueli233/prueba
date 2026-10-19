@@ -1,0 +1,5 @@
+ventas del dia
+Doña Rosa - leche 1l - 4500
+
+total de productos: 6
+valor del inventario 51000

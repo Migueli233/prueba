@@ -1,0 +1,5 @@
+#claves  datos privados : nunca se suben
+.env
+
+
+# Archivos que crea Python solo _pychache.venv/
