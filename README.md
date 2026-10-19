@@ -185,9 +185,10 @@ __pycache__/
 
 ## 👨‍💻 Autor
 
-**Daniel Esteban Narváez Ara**
+**Miguel Angel Muñoz Acevedo**
 
 Proyecto académico: Tienda Don Pedro.
+
 
 ---
 
